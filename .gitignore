@@ -1,5 +1,6 @@
 .idea/
 cache/
+config/config.php
 classes/local/*.php
 templates/local
 vendor/
